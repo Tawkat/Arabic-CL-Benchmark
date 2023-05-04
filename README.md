@@ -1,7 +1,7 @@
 # A Benchmark Study of Contrastive Learning for Arabic Social Meaning
 
 
-This repo contains the codes for [A Benchmark Study of Contrastive Learning for Arabic Social Meaning](https://aclanthology.org/2022.wanlp-1.7/).
+This repo contains the codes for [A Benchmark Study of Contrastive Learning for Arabic Social Meaning](https://aclanthology.org/2022.wanlp-1.7/) (WANLP, 2022).
 
 We provided jupyter notebook implementation on a sample dataset for each method discussed in the paper.
 
